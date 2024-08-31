@@ -18,6 +18,6 @@ That's where you come in! We're always open to hearing your feedback, whether it
 
 If you have any issues, suggestions, or just want to share your experience, please don't hesitate to reach out. Your input is invaluable in helping us make PlaylistPro the best it can be.
 
-[Link to Feedback Form / GitHub Issues]
+[Let us know here](https://github.com/TiceEnterprise/PlaylistPro/issues)
 
 Thank you for using PlaylistPro and for helping us improve!
